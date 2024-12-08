@@ -1,0 +1,118 @@
+{
+  "id": "615467c57d7f5978f7056666",
+  "aaId": "615467c072f6970069076666",
+  "activityBlocked": false,
+  "avatarHash": "9d2d88e890bea1dd0660b5156aa50666",
+  "avatarUrl": "https://trello-members.s3.amazonaws.com/615467c57d7f5978f7056666/9d2d88e890bea1dd0660b5156aa50666",
+  "bio": "",
+  "bioData": {
+    "emoji": {
+
+    }
+  },
+  "confirmed": true,
+  "fullName": "Test Test",
+  "idEnterprise": null,
+  "idEnterprisesDeactivated": [
+
+  ],
+  "idMemberReferrer": null,
+  "idPremOrgsAdmin": [
+
+  ],
+  "initials": "TT",
+  "memberType": "normal",
+  "nonPublic": {
+
+  },
+  "nonPublicAvailable": true,
+  "products": [
+
+  ],
+  "url": "https://trello.com/Test",
+  "username": "test",
+  "status": "disconnected",
+  "aaBlockSyncUntil": null,
+  "aaEmail": null,
+  "aaEnrolledDate": null,
+  "avatarSource": "none",
+  "credentialsRemovedCount": 0,
+  "dateLastImpression": "2024-10-25T16:02:21.070Z",
+  "dateLastActive": "2024-10-25T15:37:33.531Z",
+  "domainClaimed": null,
+  "email": "test@test.test",
+  "gravatarHash": "4231a483fd540d9977e0bc02f88fa666",
+  "idBoards": [
+
+  ],
+  "idOrganizations": [
+    "615467e43dd73c704e4ca666"
+  ],
+  "idEnterprisesAdmin": [
+
+  ],
+  "limits": {
+    "boards": {
+      "totalPerMember": {
+        "status": "ok",
+        "disableAt": 4500,
+        "warnAt": 3600
+      }
+    },
+    "orgs": {
+      "totalPerMember": {
+        "status": "ok",
+        "disableAt": 850,
+        "warnAt": 680
+      }
+    }
+  },
+  "loginTypes": [
+    "atlassian"
+  ],
+  "marketingOptIn": {
+    "optedIn": true,
+    "date": "2021-09-29T13:20:33.844Z"
+  },
+  "messagesDismissed": [
+    {
+      "_id": "615468255b5fc181c4c6d666",
+      "name": "team-join-cta-banner-615467e43dd73c704e4ca666",
+      "count": 1,
+      "lastDismissed": "2021-09-29T13:20:37.524Z"
+    }
+  ],
+  "nodeId": "ari:cloud:trello::user/615467c57d7f5978f7056666",
+  "oneTimeMessagesDismissed": [
+    "workspace-nav-enabled",
+    "sent-possible-new-signup-event",
+    "workspace-nav-spotlight",
+    "close-menu-of-first-board",
+    "nusku.views-switcher-upsell-default-open",
+    "615467e43dd73c704e4ca666-boardMenuMainCustomFieldsPromptFull",
+    "ack-new-feature-trello-e2b-ai-1738270800666",
+    "team-template-picker-615467e43dd73c704e4ca666"
+  ],
+  "sessionType": null,
+  "prefs": {
+    "sendSummaries": true,
+    "minutesBetweenSummaries": 60,
+    "minutesBeforeDeadlineToNotify": 60,
+    "colorBlind": false,
+    "locale": "en-US",
+    "privacy": {
+      "fullName": "public",
+      "avatar": "public"
+    }
+  },
+  "trophies": [
+
+  ],
+  "uploadedAvatarHash": null,
+  "uploadedAvatarUrl": null,
+  "premiumFeatures": [
+
+  ],
+  "isAaMastered": true,
+  "ixUpdate": "587"
+}
